@@ -37,7 +37,7 @@ Sign in to the end-user ticketing system and create a ticket based on your issue
 
 ![END USERS 2](https://github.com/user-attachments/assets/e7dfbcdb-1586-48b9-8ea7-fdf7e8e30e9d)
 
-Here we can check our ticket stats and see updates.
+Here we can check our ticket stats and see updates. On the admin side, we can then change SLA and assign the ticket to different teams and/or departments. Then we can close are write notes on the ticket as needed.
 </p>
 <br />
 

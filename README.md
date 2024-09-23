@@ -31,22 +31,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![END USERS 1](https://github.com/user-attachments/assets/ddf4c119-4ab5-49b0-92da-4bd9eb053ec8)
 
-Sign into the end-user ticketing system and create a ticket based on your issue.
+Sign in to the end-user ticketing system and create a ticket based on your issue.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![END USERS 2](https://github.com/user-attachments/assets/e7dfbcdb-1586-48b9-8ea7-fdf7e8e30e9d)
+
+Here we can check our ticket stats and see updates.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
